@@ -3,12 +3,12 @@
 ---
 
 
-> The web-based Rukun Warga Administration application is an application to learn more about the activities, benefits,
-> and purposes as well as the importance of administation at RW. This application is made using Laravel version 10 and
-> at
-> least PHP ^8.1 so if at the time of installation or use there are errors or bugs likely due to versions of PHP that
-> are
-> not supported.
+> Sistem Pemesanan Lapangan adalah aplikasi berbasis web untuk melakukan reservasi lapangan.
+> 
+> 
+> 
+> 
+> 
 
 ### **Tech Stack:**
 
@@ -34,10 +34,11 @@
 
 ---
 
-- Dyinastie Marchelina Puspitawening
-- Emir Abiyyu Delanggra
-- Muhammad Rifky Harto Biantoro
-- Syahrul Bhudi Ferdiansyah
+- Aunnurrofiq Farhan Zuhdi 
+- Febby Mathelda Silvya M
+- Eka Krisna Ferian
+- Hilmi Irfan N
+- Muhammad Rifky Harto Biantoro 
 
 ### **🕙 Installation:**
 
@@ -45,7 +46,7 @@
 
 1. Open Address repository:
 
-   [Repository](https://github.com/SyahrulBhudiF/Siwarga13)
+   [Repository](https://github.com/Muhammad-Rifky/PBL6)
 
 2. Fork repository:
 
@@ -56,7 +57,7 @@
 3. Clone fork repository:
 
     ```bash
-    git clone https://github.com/Your_Github_Address/Siwarga13
+    git clone https://github.com/Muhammad-Rifky/PBL6
     ```
 
    note: change "Your_Github_Address" with your actual address, like: SyahrulBhudiF or Rifki4w
